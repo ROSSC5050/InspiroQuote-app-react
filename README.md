@@ -2,6 +2,7 @@
 
 Generate random inspirational quotes using this simple React application.
 
+check website here https://rosscqoute.netlify.app/
 ## Features
 
 - Fetches random quotes from an external API.
